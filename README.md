@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">👋 Hi, I'm Ramtin Rajabi, a 28-year-old software enthusiast.<br>💻 I've explored the fundamentals of web development using HTML, CSS, JavaScript, and React, and I'm currently focused on sharpening my skills in Python.<br>🚀 I'm passionate about learning new technologies, writing clean code, and building projects that push me to grow as a developer.</h4>
+<h2 align="center">👋 Hi, I'm Ramtin Rajabi, a 28-year-old software enthusiast.<br>🚀 I'm passionate about learning new technologies, writing clean code, and building projects that push me to grow as a developer.</h2>
 
 ###
 
@@ -48,8 +48,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/martinrfh/martinrfh/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinrfh/martinrfh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martinrfh/martinrfh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/martinrfh/martinrfh/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
